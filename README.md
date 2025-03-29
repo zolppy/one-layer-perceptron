@@ -1,5 +1,9 @@
 # One-Layer Perceptron (OLP)
 
+![artificial-neural-network](https://github.com/user-attachments/assets/a37f69c7-6977-4e0f-8a0b-713636a6f441)
+
+Image found on: https://www.w3schools.com/ai/ai_learning.asp
+
 ## Concepts:
 
 ### 1. Perceptron Algorithm
@@ -123,3 +127,7 @@ self.bias += self.learning_rate * error
 1. **Binary Classification Only**: Outputs 0/1 via step function;
 2. **Linear Boundaries**: Cannot handle complex/non-linear patterns;
 3. **Sensitivity to Learning Rate**: Poor choice can cause slow convergence or oscillations.
+
+## References
+
+- [Machine Learning](https://www.w3schools.com/ai/default.asp)
