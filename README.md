@@ -2,7 +2,7 @@
 
 ![artificial-neural-network](https://github.com/user-attachments/assets/a37f69c7-6977-4e0f-8a0b-713636a6f441)
 
-Image found on: https://www.w3schools.com/ai/ai_learning.asp
+Image found on: https://www.w3schools.com/ai/default.asp
 
 ## Concepts:
 
